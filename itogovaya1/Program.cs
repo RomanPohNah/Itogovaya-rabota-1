@@ -10,3 +10,4 @@ for (int i = 0; i < originalArray.Length; i++)
     }
 }
 Array.Resize(ref newArray, j);
+Console.WriteLine(string.Join(", ", newArray));
