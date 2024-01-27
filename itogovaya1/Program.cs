@@ -9,3 +9,4 @@ for (int i = 0; i < originalArray.Length; i++)
         j++;
     }
 }
+Array.Resize(ref newArray, j);
