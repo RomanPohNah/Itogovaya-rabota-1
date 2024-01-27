@@ -1,0 +1,1 @@
+﻿string[] originalArray = { "fff", "a3dfr", "$", "jytr", "343"};
